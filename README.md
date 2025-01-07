@@ -86,4 +86,5 @@ View income and expense summaries for selected periods.
 
 Visualize Data
 Use charts to get insights into financial patterns.
+
 -------------------------------------------------------------------------------------------------
