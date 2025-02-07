@@ -1,4 +1,4 @@
-# Project_X_repo_2
+# Project_Python_Individual
 Repository for indivdual python project for semester-III
 Expense Tracker
 
