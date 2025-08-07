@@ -1,6 +1,4 @@
-# Project_Python_Individual
-Repository for indivdual python project for semester-III
-Expense Tracker
+# Expense Tracker
 
 Project Overview
 
